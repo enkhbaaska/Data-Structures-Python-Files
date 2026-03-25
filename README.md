@@ -1,9 +1,5 @@
 ﻿# Data-Structures Module
 
-A collection of Python implementations developed while practising core data structures and algorithms concepts, including recursion, hashing, sorting, and Huffman coding.
-
-## Overview
-
 This repository contains Python code to simulate Data Structures algorithms to understand how common data structures and techniques work.
 
 ## Included Topics
